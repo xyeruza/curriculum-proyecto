@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: #333;
+}
+
+.imgperfil{
+    display: flex;
+    justify-content: center;
+}
